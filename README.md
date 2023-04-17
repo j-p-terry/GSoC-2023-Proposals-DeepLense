@@ -57,6 +57,8 @@ Evaluation Tests: [Link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQm
 
 ## Superresolution for Strong Gravitational Lensing
 
+Evaluation Test Results [Hidden Data]: [Link](https://github.com/)
+
 | Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submissions | 
 | ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------- |
 | **Pranath Reddy**     | [pranath-reddy](https://github.com/pranath-reddy)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/SuperResolution/Pranath%20Reddy.pdf) |
