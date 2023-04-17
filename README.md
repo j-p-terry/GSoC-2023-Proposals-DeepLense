@@ -80,3 +80,15 @@ Evaluation Tests: [Link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQm
 | Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submissions | 
 | ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------- |
 | -       | -                         | - | - |
+
+## Invalid/Incomplete Submissions
+
+| Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submissions | 
+| ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------- |
+| Abirami S       | [-](https://github.com/)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Misc/Abirami%20S.pdf) |
+| Aravind S       | [-](https://github.com/)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Misc/Aravind%20S.pdf) |
+| Janavi Nathwani       | [-](https://github.com/)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Misc/Janavi%20Nathwani.pdf) |
+| Marko Gugleta       | [-](https://github.com/)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Misc/Marko%20Gugleta.pdf) |
+| Ritesh Maurya ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Misc/Ritesh.pdf))      | [MauryaRitesh](https://github.com/MauryaRitesh)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Misc/Ritesh.pdf) |
+| Sahil Bharodiya ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Misc/Sahil%20Bharodiya.pdf))      | [SahilBharodiya](https://github.com/SahilBharodiya)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Misc/Sahil%20Bharodiya.pdf) |
+| Saurav      | [-](https://github.com/)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Misc/Saurav.pdf) |
