@@ -68,6 +68,13 @@ Evaluation Tests: [Link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQm
 | Tanmay Ambadkar ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/SuperResolution/Tanmay%20Ambadkar.pdf))       | [TanmayAmbadkar](https://github.com/TanmayAmbadkar)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/SuperResolution/Tanmay%20Ambadkar.pdf) |
 | Yashwardhan Deshmukh ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Self-Supervised/Yashwardhan%20Deshmukh.pdf))       | [kingjuno](https://github.com/yaashwardhan)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/SuperResolution/Yashwardhan.pdf) |
 
+## Updating the DeepLense Pipeline
+
+| Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submissions | 
+| ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------- |
+| **Saranga Kingkor Mahanta**       | [Saranga7](https://github.com/Saranga7)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Updating%20Pipeline/Saranga.pdf) |
+| Usama Ahmed ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Updating%20Pipeline/Usama%20Ahmed.pdf))       | [0ssamaak0](https://github.com/0ssamaak0)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Updating%20Pipeline/Usama%20Ahmed.pdf) |
+
 ## Expanding Strong Gravitational Lensing Simulations
 
 | Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submissions | 
