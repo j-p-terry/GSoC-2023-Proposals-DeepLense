@@ -1,6 +1,6 @@
 # GSoC23 DeepLense Applicants
 
-==Evaluation Tests: [Link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit)==
+* Evaluation Tests: [Link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit)
 
 ## Equivariant Neural Networks for Dark Matter Morphology with Strong Gravitational Lensing
 
@@ -57,7 +57,7 @@
 
 ## Superresolution for Strong Gravitational Lensing
 
-**Evaluation Test Results on Hidden Data:** [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/SuperResolution/README.md)
+* **Evaluation Test Results on Hidden Data:** [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/SuperResolution/README.md)
 
 | Student                 | GitHub Handle                                               | Test Submissions                                                           | Proposal Submissions | 
 | ----------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------- |
@@ -99,10 +99,10 @@
 | Neeraj Anand ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Lens%20Finding/Neeraj%20Anand.pdf))       | [neerajanand321](https://github.com/neerajanand321)                         | [Link](https://github.com/neerajanand321/GSOC_DeepLense) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Transformers/Neeraj%20Anand.pdf) |
 | Rahil Parikh ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Transformers/Rahil%20Parikh.pdf))       | [rprkh](https://github.com/rprkh)                         | [Link](https://github.com/rprkh/GSoC-Deep-Lense-Tasks) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Transformers/Rahil%20Parikh.pdf) |
 | Shashank Shekhar Shukla ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Regression/Shashank%20Shekar.pdf))       | [Wodlfvllf](https://github.com/Wodlfvllf)                         | [Link](https://github.com/Wodlfvllf/Evaluation-Test-DeepLense) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Transformers/Shashank%20Shekar.pdf) |
-| Soham Dasgupta ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Transformers/Soham%20Dasgupta.pdf))       | [astonishingwolf](https://github.com/astonishingwolf)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Transformers/Soham%20Dasgupta.pdf) |
+| Soham Dasgupta ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Transformers/Soham%20Dasgupta.pdf))       | [astonishingwolf](https://github.com/astonishingwolf)                         | [Link](https://github.com/astonishingwolf/GSoC2023/tree/main/DeepLens) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Transformers/Soham%20Dasgupta.pdf) |
 | Tanmay Ambadkar ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/SuperResolution/Tanmay%20Ambadkar.pdf))       | [TanmayAmbadkar](https://github.com/TanmayAmbadkar)                         | [Link](https://github.com/TanmayAmbadkar/deeplense-tests) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Transformers/Tanmay%20Ambadkar.pdf) |
 | Surapaneni Yogesh ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/SuperResolution/Surapaneni%20Yogesh.pdf))       | [yogesh174](https://github.com/yogesg174)                         | [Test-1](https://github.com/yogesh174/gsoc-ml4sci-tests/tree/master/deeplense/common-task) / [Test-3](https://github.com/yogesh174/gsoc-ml4sci-tests/tree/master/deeplense/specific-test-regression) / [Test-5](https://github.com/yogesh174/gsoc-ml4sci-tests/tree/master/deeplense/specific-test-transformers) / [Test-6](https://github.com/yogesh174/gsoc-ml4sci-tests/tree/master/deeplense/specific-test-super-resolution) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/Proposals/Transformers/Surapaneni%20Yogesh.pdf) |
-| Thanveer Ahamed ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/SuperResolution/Tanmay%20Ambadkar.pdf))       | [TanmayAmbadkar](https://github.com/TanmayAmbadkar)                         | [Link](https://github.com/) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Transformers/Thanveer%20Ahamed.pdf) |
+| Thanveer Ahamed ([CV](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/SuperResolution/Tanmay%20Ambadkar.pdf))       | [TanmayAmbadkar](https://github.com/TanmayAmbadkar)                         | [Link](https://github.com/Thanveerahmd/DeepLense-GSoC-Test) | [Link](https://github.com/pranath-reddy/GSoC-2023-Proposals-DeepLense/blob/main/CV/Transformers/Thanveer%20Ahamed.pdf) |
 
 ## Invalid/Incomplete Submissions
 
