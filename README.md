@@ -1,6 +1,6 @@
 # GSoC23 DeepLense Applicants
 
-<mark>Evaluation Tests: [Link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit)</mark>
+==Evaluation Tests: [Link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit)==
 
 ## Equivariant Neural Networks for Dark Matter Morphology with Strong Gravitational Lensing
 
